@@ -1,83 +1,87 @@
-# Olá, eu sou Carlos Augusto 👋
+# Olá, eu sou Carlos Augusto! 👋
 
-💻 Estudante de tecnologia e desenvolvimento e Ciência de dados 
-🚀 Aprendendo Python, Data Analysis, Fullstack e IA  
-📊 Criando projetos para evoluir todos os dias  
-🧠 Explorando automações, dashboards e inteligência artificial  
+### Data & Technology | Ciência de Dados | Desenvolvimento de Sistemas
+
+Sou estudante de **Ciência de Dados**, interessado em tecnologia, análise de dados e desenvolvimento de soluções que resolvam problemas reais.
+
+Atualmente, estou desenvolvendo projetos práticos e aprimorando meus conhecimentos em programação, visualização de dados, automação e inteligência artificial.
+
+- 📊 Interesse em Ciência e Análise de Dados.
+- 💻 Desenvolvimento com Python e outras tecnologias.
+- 📈 Construção de dashboards e soluções com Power BI.
+- 🤖 Explorando automação e Inteligência Artificial.
+- 🚀 Aprendizado contínuo por meio de projetos práticos.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+### Linguagens e Desenvolvimento
 
-  <img align="center" alt="JavaScript" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
+</p>
 
-  <img align="center" alt="React" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+### Dados e Business Intelligence
 
-  <img align="center" alt="NodeJS" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-
-  <img align="center" alt="MongoDB" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-
-  <img align="center" alt="Git" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-  <img align="center" alt="PowerBI" height="40" width="50"
-    src="https://img.icons8.com/color/48/power-bi.png">
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Python
-- Data Analysis
-- APIs REST
-- Fullstack Development
-- Inteligência Artificial
-- Git & GitHub
-- Power BI
+- Python aplicado à Ciência de Dados.
+- Manipulação e análise de dados com Pandas.
+- SQL e bancos de dados.
+- Power BI e visualização de dados.
+- JavaScript e desenvolvimento Full Stack.
+- APIs REST e integração de sistemas.
+- Inteligência Artificial e Machine Learning.
 
 ---
 
-## 📌 Objetivos
+## 🎯 Objetivos
 
-✅ Evoluir como desenvolvedor  
-✅ Criar projetos úteis  
-✅ Trabalhar com tecnologia  
-✅ Aprender IA e Ciência de Dados  
-✅ Construir um portfólio forte  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosaugustosoares&show_icons=true&theme=tokyonight)
+- Desenvolver soluções tecnológicas para problemas reais.
+- Construir projetos relevantes para meu portfólio.
+- Aprofundar conhecimentos em Ciência de Dados.
+- Evoluir em desenvolvimento de sistemas e automação.
+- Compartilhar minha evolução e meus projetos com a comunidade.
 
 ---
 
-## 🔥 Linguagens Mais Usadas
+## 📊 GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaugustosoares&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=carlosaugustosoares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaugustosoares&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+</p>
 
 ---
 
-## 🌎 Contato
+## 🌎 Vamos nos conectar?
 
-<div>
-  <a href="https://github.com/carlosaugustosoares" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<p align="left">
+  <a href="https://github.com/carlosaugustosoares">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/carlos-augusto-b447153b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-## 💭 Frase
-
-> "Transformando ideias em código 🚀"
+<p align="center">
+  <i>"Transformando conhecimento em soluções por meio da tecnologia."</i>
+</p>
