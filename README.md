@@ -56,12 +56,16 @@ Atualmente, estou desenvolvendo projetos práticos e aprimorando meus conhecimen
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Projetos em Destaque
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=carlosaugustosoares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaugustosoares&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
-</p>
+📊 **Business Intelligence**
+Dashboards e análises interativas desenvolvidas com Power BI.
+
+🐍 **Data Science & Python**
+Projetos de análise, tratamento e exploração de dados.
+
+💻 **Desenvolvimento de Sistemas**
+Aplicações, automações e soluções tecnológicas.
 
 ---
 
