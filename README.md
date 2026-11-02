@@ -60,6 +60,8 @@ Atualmente, estou desenvolvendo projetos práticos e aprimorando meus conhecimen
 
 📊 **Business Intelligence**:
 Dashboards e análises interativas desenvolvidas com Power BI.
+[Visualizar projeto]
+https://github.com/carlosaugustosoares/painel-analitico-vendas
 
 🐍 **Data Science & Python**:
 Projetos de análise, tratamento e exploração de dados.
