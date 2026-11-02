@@ -58,13 +58,13 @@ Atualmente, estou desenvolvendo projetos práticos e aprimorando meus conhecimen
 
 ## 🚀 Projetos em Destaque
 
-📊 **Business Intelligence**
+📊 **Business Intelligence**:
 Dashboards e análises interativas desenvolvidas com Power BI.
 
-🐍 **Data Science & Python**
+🐍 **Data Science & Python**:
 Projetos de análise, tratamento e exploração de dados.
 
-💻 **Desenvolvimento de Sistemas**
+💻 **Desenvolvimento de Sistemas**:
 Aplicações, automações e soluções tecnológicas.
 
 ---
